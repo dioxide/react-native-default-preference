@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.coz.rn.system.device;
 
 import android.content.Context;
 import android.content.SharedPreferences;
